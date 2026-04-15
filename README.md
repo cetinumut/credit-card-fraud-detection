@@ -36,6 +36,6 @@ Tuned XGBoost
 - xgboost
 - lightgbm
 
-- ## Dataset Source
+## Dataset Source
 The dataset used in this project is available on Kaggle: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 Credit Card Fraud Detection Dataset
